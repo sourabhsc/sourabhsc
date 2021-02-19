@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![url](https://2.bp.blogspot.com/-Rai8wel0MEg/T8bLQWVYCLI/AAAAAAAAA5I/XLQKeHzryNE/s1600/party_anim_sm2.gif)
+
+<img src="https://2.bp.blogspot.com/-Rai8wel0MEg/T8bLQWVYCLI/AAAAAAAAA5I/XLQKeHzryNE/s1600/party_anim_sm2.gif" width="200" height="200" />
+
 <!--
 **sourabhsc/sourabhsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
