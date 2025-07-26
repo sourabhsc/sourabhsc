@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on computer vision problems.
-- 🌱 I’m currently learning deep learning algorithms.
-- 👯 I’m looking to collaborate on Kaggle projects.
-- 💬 Ask me about Astrophysics
+- 🔭 I’m currently working on Knowledge engieering and NLP problems.
+- 🌱 I’m currently learning how to do efficient balcony gardening and play injury free intense badminton.
+- 👯 I’m looking to collaborate on any interesting ideas you may have.
+- 💬 Ask me about Data Architecure, Knowledge Engineering, Astrophysics and related topics
 - 📫 How to reach me: Email LinkedIn
 
 **[image source](https://rebeccamock.blogspot.com/2012/05/party-original-vs-gif.html)
