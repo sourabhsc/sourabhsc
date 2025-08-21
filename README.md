@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Knowledge engieering and NLP problems.
+- 🔭 I’m currently working on Knowledge engieering and AI related topics with data engineering as the focus.
 - 🌱 I’m currently learning how to do efficient balcony gardening and play injury free intense badminton.
 - 👯 I’m looking to collaborate on any interesting ideas you may have.
 - 💬 Ask me about Data Architecure, Knowledge Engineering, Astrophysics and related topics
